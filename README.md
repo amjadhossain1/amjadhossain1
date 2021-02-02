@@ -39,7 +39,7 @@
 
 ![Amjad-Hossain's github stats](https://github-readme-stats.vercel.app/api?username=amjadRabby&show_icons=true&theme=radical)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadRabby&card_width=550&show_icons=true&theme=radical)](https://github.com/amjad-Rabby)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadRabby&card_width=550&show_icons=true&theme=radical)](https://github.com/amjadRabby)
 
 
 [programming]: https://www.programming-hero.com/
