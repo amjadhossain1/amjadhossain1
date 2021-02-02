@@ -4,10 +4,9 @@
 
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on any interesting project
-- 🌱 I’m currently learning everything 🤣
+- ⚡ I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn TypeScript, Next.js, Vue 😍
 - 📫 How to reach me: amjad.rabby1@mail.com
-- ⚡ Fun fact: still thinking...
 
 
 ### Connect with me:
