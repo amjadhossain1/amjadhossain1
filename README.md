@@ -37,9 +37,9 @@
 <br />
 <br />
 
-![Amjad-Hossain's github stats](https://github-readme-stats.vercel.app/api?username=amjad-Rabby&show_icons=true&theme=radical)
+![Amjad-Hossain's github stats](https://github-readme-stats.vercel.app/api?username=amjadRabby&show_icons=true&theme=radical)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=amjad-Rabby&card_width=550&show_icons=true&theme=radical)](https://github.com/amjadRabby)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadRabby&card_width=550&show_icons=true&theme=radical)](https://github.com/amjad-Rabby)
 
 
 [programming]: https://www.programming-hero.com/
