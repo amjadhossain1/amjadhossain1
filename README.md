@@ -1,6 +1,6 @@
 ### Hi there I am Amjad Hossain 👋
 
-
+## I'm a 😍😍 JavaScript Lover 😍😍!
 
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on any interesting project
