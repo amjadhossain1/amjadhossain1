@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any interesting project
 - ⚡ I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn TypeScript, Next.js, Vue 😍
-- 📫 How to reach me: amjad.rabby1@mail.com
+- 📫 How to reach me: amjad.rabby1@gmail.com
 
 
 ### Connect with me:
