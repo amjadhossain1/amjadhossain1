@@ -2,10 +2,10 @@
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently interested in Fluter.
 - 👯 I’m looking to collaborate on any interesting project
-- ⚡ I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn TypeScript, express.js, Vue 😍
+- ⚡  I consider myself a team player.
+- 🥅 2024 Goals: Learn TypeScript, Nest js, Vite, Astro 😍
 - 📫 How to reach me: amjad.rabby1@gmail.com
 
 
